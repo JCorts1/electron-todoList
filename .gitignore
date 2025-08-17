@@ -1,0 +1,14 @@
+# Dependencies
+/node_modules
+
+# Compiled JavaScript from CoffeeScript
+*.js
+
+# Ignore the compiled main.js if it has a different name
+# main.js
+# renderer.js
+# preload.js
+# (You might need to uncomment and adjust these if you have JS files you DO want to commit)
+
+# System files
+.DS_Store
